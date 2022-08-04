@@ -10,4 +10,5 @@ export const AppWrapper = styled.div`
 export const HelloMessage = styled.h2`
   margin-right: auto;
   margin-left: auto;
+  color: #3f51b5;
 `;
